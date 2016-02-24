@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="C1257F5600755A00" version="9.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="152" sequence="31" unid="A41B428BC7AE1EC7C1257F5600724BAF">
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.5" replicaid="C1257F5600755A00" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="152" sequence="96" unid="A41B428BC7AE1EC7C1257F5600724BAF">
 <created><datetime>20160211T214824,79+01</datetime></created>
-<modified><datetime>20160211T223349,73+01</datetime></modified>
-<revised><datetime>20160211T223349,72+01</datetime></revised>
-<lastaccessed><datetime>20160211T223349,73+01</datetime></lastaccessed>
+<modified><datetime>20160224T134302,78+01</datetime></modified>
+<revised><datetime>20160224T134302,77+01</datetime></revised>
+<lastaccessed><datetime>20160224T134302,78+01</datetime></lastaccessed>
 <addedtofile><datetime>20160211T222147,84+01</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=Julian Meinhardt/OU=Sulzbach/O=SPI</name></updatedby>
 <wassignedby><name>CN=Julian Meinhardt/OU=Sulzbach/O=SPI</name></wassignedby>

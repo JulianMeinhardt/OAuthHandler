@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xp:view xmlns:xp="http://www.ibm.com/xsp/core">
 
-</xp:view>
+	
+	<xp:this.beforeRenderResponse>
+		<xp:executeScript>
+			<xp:this.script><![CDATA[#{javascript:OAuthHandler.refreshShortToken(param.get("code"));}]]></xp:this.script>
+		</xp:executeScript>
+	</xp:this.beforeRenderResponse>
+	<xp:span style="font-weight:bold"></xp:span></xp:view>
